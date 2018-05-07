@@ -1,0 +1,12 @@
+Client ID:
+326024602057-nedd3u7uuli7nn4e6e0b288n3jq8np6s.apps.googleusercontent.com
+Client secret:
+dzydQtGFvmXOEIGVrtRf2AGs
+
+
+--
+1:Get https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=326024602057-nedd3u7uuli7nn4e6e0b288n3jq8np6s.apps.googleusercontent.com&redirect_uri=https://custom-hold-200307.appspot.com/oauth&scope=email&state=SuperSecret9000
+
+1.2: authorization_code: https://custom-hold-200307.appspot.com/oauth?state=SuperSecret9000&code=4/AAB_Z8lY2grJEMz9oSee_GNLv55Pscropj63KRgS13RrtJBClnNzfFWDkanM3sQjO4W46A1NL_WPIOC6FAWJzGc#
+
+2: 

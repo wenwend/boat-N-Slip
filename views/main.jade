@@ -1,0 +1,19 @@
+extends index
+
+block content
+	.container
+		h2 Welcome #{data.name}!
+		br
+		p This is a demo for academic usages.
+		br
+		p You are at this page to see your your Google+ information.
+		br
+		
+		p  Details
+		br
+		p #{data.emails[0].value}
+		br
+		p #{data.name.familyName}
+		br
+		p #{data.id}
+
