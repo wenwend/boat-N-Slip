@@ -42,8 +42,16 @@ With `npm`:
 
 ### NODEJS NOSQL OAUTH2.0
 
-http://custom-hold-200307.appspot.com/start: using OAuth 2.0 and authorize user for Google+ access
+Application:
 
-http://custom-hold-200307.appspot.com/boat: HTTP GET/POST/PATCH/PUT/DELETE
+http://custom-hold-200307.appspot.com/
 
-http://custom-hold-200307.appspot.com/slip: HTTP GET/POST/PATCH/PUT/DELETE
+Path:// 
+
+/start: using OAuth 2.0 and authorize user for Google+ access
+
+/boat: HTTP GET/POST/PATCH/PUT/DELETE
+
+/slip: HTTP GET/POST/PATCH/PUT/DELETE
+
+Verified on Postman
