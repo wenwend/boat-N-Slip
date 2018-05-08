@@ -32,15 +32,18 @@ With `npm`:
 With `npm`:
 
     npm run deploy
-
-## Running the tests
+ 
 
 [appengine]: https://cloud.google.com/appengine/docs/flexible/nodejs
 [tutorial]: https://cloud.google.com/appengine/docs/flexible/nodejs/quickstart
 
 
 ## Boat-and-Slip
-## NODEJS NOSQL OAUTH2.0
+
+# NODEJS NOSQL OAUTH2.0
+
 /start: using OAuth 2.0 and authorize user for Google+ access
+
 /boat: HTTP GET/POST/PATCH/PUT/DELETE
+
 /slip: HTTP GET/POST/PATCH/PUT/DELETE
