@@ -40,10 +40,10 @@ With `npm`:
 
 ## Boat-and-Slip
 
-# NODEJS NOSQL OAUTH2.0
+### NODEJS NOSQL OAUTH2.0
 
-/start: using OAuth 2.0 and authorize user for Google+ access
+http://custom-hold-200307.appspot.com/start: using OAuth 2.0 and authorize user for Google+ access
 
-/boat: HTTP GET/POST/PATCH/PUT/DELETE
+http://custom-hold-200307.appspot.com/boat: HTTP GET/POST/PATCH/PUT/DELETE
 
-/slip: HTTP GET/POST/PATCH/PUT/DELETE
+http://custom-hold-200307.appspot.com/slip: HTTP GET/POST/PATCH/PUT/DELETE
