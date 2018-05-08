@@ -1,4 +1,4 @@
-# Quickstart for Node.js in the App Engine Flexible Environment
+# DEMO for Node.js in the App Engine Flexible Environment
 
 This is the sample application for the
 [Quickstart for Node.js in the App Engine Flexible Environment][tutorial]
@@ -22,37 +22,25 @@ Before you can run or deploy the sample, you need to do the following:
 
         npm install
 
-    or with `yarn`:
-
-        yarn install
-
 ## Running locally
 
 With `npm`:
 
     npm start
-
-or with `yarn`:
-
-    yarn start
-
 ## Deploying to App Engine
 
 With `npm`:
 
     npm run deploy
 
-or with `yarn`:
-
-    yarn run deploy
-
 ## Running the tests
-
-See [Contributing][contributing].
 
 [appengine]: https://cloud.google.com/appengine/docs/flexible/nodejs
 [tutorial]: https://cloud.google.com/appengine/docs/flexible/nodejs/quickstart
-[readme]: ../README.md
-[contributing]: https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/master/CONTRIBUTING.md
-"# cloud" 
-"# boat-N-Slip" 
+
+
+## Boat-and-Slip
+## NODEJS NOSQL OAUTH2.0
+/start: using OAuth 2.0 and authorize user for Google+ access
+/boat: HTTP GET/POST/PATCH/PUT/DELETE
+/slip: HTTP GET/POST/PATCH/PUT/DELETE
